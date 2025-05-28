@@ -1,2 +1,2 @@
 # BeeThermal-Sensor
-emperature Presence Sensor with CircuitPython + TouchDesigner (Serial Communication)
+Temperature Presence Sensor with CircuitPython + TouchDesigner (Serial Communication)
